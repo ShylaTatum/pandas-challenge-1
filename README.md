@@ -17,9 +17,11 @@ Part 4 is rearranging the data and manipulating it to creat results that allow t
 whole. It looks for collective answers. Below is a summary of an analysis from the data as a whole:
 
 ### Summary of Findings
->Client 24741, with over 36.5 million in profit, is the most profitable client from this data. Client 33615 had a lower profit margin,
->it had a profit of 2.2 million on a total revenue of 8.37 million, most of the sale was covering cost of production and shipping resulting
->in a lower ratio of profit to sales than compared to the number 1 client.
+
+>Client 24741, with over 36.5 million in profit, is the most profitable client from this data. Client 33615 was the 5th highest
+>in total profit had a lower profit margin than client 24741. With a profit of 2.2 million on a total revenue of 8.37 million,
+>the 6.17 million cost meant a large portionof the sale went to cost. The number 1 client, client 24741, had 82.26 million in
+>profit and the cost was 45.68 million, making for a better return on investment than the 5th highest client.
 
 
 ## Citations
